@@ -12,11 +12,11 @@ I am sathvick Reddy. My main interest lies in Machine Learning and Deep Learning
 
 - 🌱 I’m currently learning **Computer Vision** and **Deep learning**.
 
-- 👯 I’m looking to collaborate on any **Deep Learning** projects.
+- 👯 I’m looking to collaborate on any **Machine Learning** and **NLP**projects.
 
 - 🤔 I’m looking for help with Deep Learning Projects.
 
-- 💬 Ask me about NLP, Tensorflow,ML.
+- 💬 Ask me about NLP,Tensorflow,ML.
 
 - 📫 ***How to reach me***: contact me directly on this mail [sathvicknarahari@gmail.com](mailto:sathvicknarahari@gmail.com).
 
